@@ -164,7 +164,8 @@ int main()
 
 Output:
 
-<img width="1912" height="960" alt="Screenshot 2026-07-23 092259" src="https://github.com/user-attachments/assets/19ac761f-1b73-4d7d-89f0-c29e7b6a8c70" />
+<img width="1403" height="595" alt="image" src="https://github.com/user-attachments/assets/72f2a251-be2a-4a91-96da-825eefb6744b" />
+
 
 
 ## Result
